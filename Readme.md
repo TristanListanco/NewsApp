@@ -1,6 +1,5 @@
 # NewsApp
-
-Another Random UI design prototype from Dribble that I prototyped
+Another Random UI design prototype from some designers Dribble that I prototyped
 
 - Native Base
 - Rest API ft. Axios
